@@ -1,0 +1,4 @@
+En este proyecto se realizo liempieza, transformacion y analisis de los datos. 
+
+En este proyecto por medio de la aplicacion POWER BI se transformo los datos para un mejor uso y manipulacion, modificando titulos, extrayendo ano y mes en diferentes columnas para mejor manipulacion durante el analisis de datos. Se limpio las columnas que contenian texto no deseado o que entorpecian la lectura del mismo. 
+En el analisis de datos me enfoque en preguntas clave: En que ano y cuantos lanzamientos realizaron las diferentes organizaciones, cuantos lanzamientos se realizaron por ano en general, como ha variado el costo de una mision espacial a lo largo del tiempo, en que meses es mas comun que haya lanzamientos y por ultimo cantidad de lanzamientos que salieron bien, los que salieron mal y los que tuvieron un fallo parcial.
